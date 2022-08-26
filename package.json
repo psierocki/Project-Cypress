@@ -1,24 +1,25 @@
 {
-  "name": "Project-Cypress",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/psierocki/Project-Cypress.git"
-  },
-  "keywords": [],
-  "author": "Patryk Sierocki",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/psierocki/Project-Cypress/issues"
-  },
-  "homepage": "https://github.com/psierocki/Project-Cypress#readme",
-  "devDependencies": {
-    "cypress": "^10.6.0",
-    "typescript": "^4.7.4"
-  }
+	"name": "Project-Cypress",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"cypress:open": "cypress open"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/psierocki/Project-Cypress.git"
+	},
+	"keywords": [],
+	"author": "Patryk Sierocki",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/psierocki/Project-Cypress/issues"
+	},
+	"homepage": "https://github.com/psierocki/Project-Cypress#readme",
+	"devDependencies": {
+		"cypress": "^10.6.0",
+		"typescript": "^4.7.4"
+	}
 }
